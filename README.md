@@ -4,5 +4,3 @@ A file sharing and text-chat messenger application consisting of one chat server
 
 The salient features include:
 <ul><li>Block users</li><li>Broadcast messages</li><li>View status of logged-in users</li><li>Chat statistics</li></ul>
-
-Course Website: https://cse.buffalo.edu/faculty/dimitrio/courses/cse4589_f17/index.html	
